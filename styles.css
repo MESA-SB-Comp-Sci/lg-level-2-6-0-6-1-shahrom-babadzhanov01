@@ -35,10 +35,19 @@ body {
     background-color: navy;
 }
 
+.p6 {
+    background-color: coral;
+    padding-bottom: 20px;
+    border: 10px solid navy;
+    display: inline-block;
+
+}
+
 .border1 {
     background-color: azure;
     padding-bottom: 60px;
     border: 5px solid orange;
     margin-bottom: unset;
+    display: inline-block;
 }
 
