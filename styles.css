@@ -39,6 +39,6 @@ body {
     background-color: azure;
     padding-bottom: 60px;
     border: 5px solid orange;
+    margin-bottom: unset;
 }
-
 
